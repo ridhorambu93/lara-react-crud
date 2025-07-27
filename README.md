@@ -1,6 +1,6 @@
 # Lara-React-CRUD
-
-This project is a CRUD (Create, Read, Update, Delete) application built using Laravel for the backend and React for the frontend. Learn how to create this project from https://youtu.be/VdYfBzOFPUQ
+This project is a CRUD (Create, Read, Update, Delete) application built using Laravel for the backend and React for the frontend.
+i created and learn this from : https://youtu.be/VdYfBzOFPUQ
 
 ## Features
 - Create, read, update, and delete records.
@@ -43,7 +43,7 @@ This project is a CRUD (Create, Read, Update, Delete) application built using La
 
 6. Build the frontend and backend assets and start the development server:
     ```bash
-    composer run dev
+    composer run dev / npm run dev (on vscode terminal)
     ```
 
 ## Usage
